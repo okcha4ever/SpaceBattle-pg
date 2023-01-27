@@ -14,4 +14,22 @@ After going through the installation guide and running the ``SpaceBattle.py`` fi
 # About The Game
 This is a game played by two people using the **same device**.
 
+![image](https://user-images.githubusercontent.com/53400756/215126199-c793fd7a-21fb-4052-884d-e7f2f922de64.png)
+
 At the right there is the Yellow Ship and at the other side the Red Ship
+Both ships can shoot each other **AND MAY THE STRONGER WIN**
+
+# Control Buttons
+
+## For The Yellow Ship:
+**W**: Move forwards
+**S**: Move backwards
+**A**: Left
+**D**: Right
+**H**: **Shoot!**
+
+## For the Red Ship:
+#### Use the Arrow Keys to move
+#### Use the 2nd Enter Key to shoot (The one besides the numbers pad)
+
+# Have Fun!!
