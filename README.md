@@ -17,7 +17,7 @@ This is a game played by two people using the **same device**.
 ![image](https://user-images.githubusercontent.com/53400756/215126199-c793fd7a-21fb-4052-884d-e7f2f922de64.png)
 
 At the right there is the Yellow Ship and at the other side the Red Ship
-Both ships can shoot each other **AND MAY THE STRONGER WIN**
+Both ships can shoot each other **AND MAY THE STRONGEST WIN**
 
 # Control Buttons
 
